@@ -72,10 +72,14 @@
         100%{
             left: -20;
             bottom: 0;
+             animation-duration: 5s;
+            animation-delay: -10s;
         }
         100%{
             left: 10%;
             bottom: 0;
+             animation-duration: 5s;
+            animation-delay: -10s;
         }
     }
 
